@@ -5,4 +5,5 @@
 * [Part 1 基础数据结构](基础数据结构.md)
 * [String](string.md)
 * [List](list.md)
+* [Binary Tree](binary-tree.md)
 
