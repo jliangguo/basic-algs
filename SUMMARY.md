@@ -6,4 +6,5 @@
 * [String](string.md)
 * [List](list.md)
 * [Binary Tree](binary-tree.md)
+* [Queue](queue.md)
 
