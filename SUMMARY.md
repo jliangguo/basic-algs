@@ -10,4 +10,6 @@
 * [Heap](heap.md)
 * [Stack‘](stack.md)
 * [Set](set.md)
+* [Map](map.md)
+* [Graph](graph.md)
 
