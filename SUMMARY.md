@@ -7,4 +7,7 @@
 * [List](list.md)
 * [Binary Tree](binary-tree.md)
 * [Queue](queue.md)
+* [Heap](heap.md)
+* [Stack‘](stack.md)
+* [Set](set.md)
 
