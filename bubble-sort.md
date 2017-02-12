@@ -43,3 +43,11 @@ func bubbleSort(array []int)  {
 	}
 }
 ```
+## 复杂度分析
+
+平均情况与最坏情况均为$$ O(n^2)$$, 使用了` tmp `作为临时交换变量，空间复杂度为 $$O(1)$$。
+
+## Reference
+
+1. [冒泡排序 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F)
+

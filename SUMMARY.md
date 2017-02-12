@@ -15,4 +15,5 @@
 * [Graph](graph.md)
 * [Basic Sorting](basic-sorting.md)
 * [Bubble Sort](bubble-sort.md)
+* [Selection Sort](selection-sort.md)
 
