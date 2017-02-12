@@ -12,4 +12,5 @@
 * [Set](set.md)
 * [Map](map.md)
 * [Graph](graph.md)
+* [Basic Sorting](basic-sorting.md)
 
