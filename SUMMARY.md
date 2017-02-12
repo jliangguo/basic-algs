@@ -14,4 +14,5 @@
 * [Map](map.md)
 * [Graph](graph.md)
 * [Basic Sorting](basic-sorting.md)
+* [Bubble Sort](bubble-sort.md)
 

@@ -38,3 +38,9 @@
 1. 稳定
 2. 非稳定
 
+## Reference
+
+1. [【面经】硅谷前沿Startup面试经验-排序算法总结及快速排序算法代码-九章算法 ](http://blog.sina.com.cn/s/blog_eb52001d0102v1k8.html) - 总结了一些常用常问的排序算法。
+
+2. [常用排序算法总结（性能+代码）- SegmentFault](http://segmentfault.com/a/1190000002595152#articleHeader15)
+
