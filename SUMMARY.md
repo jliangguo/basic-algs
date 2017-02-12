@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Overview](chapter1.md)
 * [Part 1 基础数据结构](基础数据结构.md)
+* [Basic Data Structures](basic-data-structures.md)
 * [String](string.md)
 * [List](list.md)
 * [Binary Tree](binary-tree.md)
@@ -12,5 +13,5 @@
 * [Set](set.md)
 * [Map](map.md)
 * [Graph](graph.md)
-* [Basic Sorting](basic-sorting.md)
+* Basic Data Structures
 
