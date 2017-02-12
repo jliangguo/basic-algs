@@ -13,5 +13,5 @@
 * [Set](set.md)
 * [Map](map.md)
 * [Graph](graph.md)
-* Basic Data Structures
+* [Basic Data Structures](basic-data-structures.md)
 
