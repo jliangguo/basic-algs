@@ -17,4 +17,6 @@
 * [Bubble Sort](bubble-sort.md)
 * [Selection Sort](selection-sort.md)
 * [Insertion Sort](insertion-sort.md)
+* [Merge Sort](merge-sort.md)
+* [Quick Sort](quick-sort.md)
 
