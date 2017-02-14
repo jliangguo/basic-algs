@@ -19,4 +19,10 @@
 * [Insertion Sort](insertion-sort.md)
 * [Merge Sort](merge-sort.md)
 * [Quick Sort](quick-sort.md)
+* [Heap Sort](heap-sort.md)
+* [Bucket Sort](bucket-sort.md)
+* [Counting Sort](counting-sort.md)
+* [Radix Sort](radix-sort.md)
+* [Basics Algorithm](basics-algorithm.md)
+* [Divide and Conquer](divide-and-conquer.md)
 
