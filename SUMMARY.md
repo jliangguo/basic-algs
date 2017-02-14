@@ -25,4 +25,5 @@
 * [Radix Sort](radix-sort.md)
 * [Basics Algorithm](basics-algorithm.md)
 * [Divide and Conquer](divide-and-conquer.md)
+* [Binary Search](binary-search.md)
 
