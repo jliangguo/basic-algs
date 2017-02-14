@@ -1,5 +1,13 @@
 {
-    "plugins": ["atoc"],
+    "plugins": [
+        "atoc",
+        "ace",
+        "etoc",
+        "image-captions",
+        "todo",
+        "wordcount",
+        "disqus"
+    ],
     "pluginsConfig": {
         "atoc": {
             "addClass": true,
