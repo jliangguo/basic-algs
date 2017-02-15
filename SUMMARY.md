@@ -26,5 +26,4 @@
 * [Basics Algorithm](basics-algorithm.md)
 * [Divide and Conquer](divide-and-conquer.md)
 * [Binary Search](binary-search.md)
-* [穷竭搜索](.md)
 
