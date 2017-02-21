@@ -26,4 +26,5 @@
 * [Basics Algorithm](basics-algorithm.md)
 * [Divide and Conquer](divide-and-conquer.md)
 * [Binary Search](binary-search.md)
+* [Basic Exhaustive Search](basic-exhaustive-search.md)
 
