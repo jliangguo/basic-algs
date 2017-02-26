@@ -1,4 +1,4 @@
-# Basic Exhaustive Search - 基础穷竭搜索
+****# Basic Exhaustive Search - 基础穷竭搜索
 
 **穷竭搜索**是将所有的可能性罗列出来，在其中寻找答案的方法。主要有**深度优先搜索**和**广度优先搜索**这两种方法。
 
