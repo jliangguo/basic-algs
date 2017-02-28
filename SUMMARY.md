@@ -28,4 +28,5 @@
 * [Binary Search](binary-search.md)
 * [Basic Exhaustive Search](basic-exhaustive-search.md)
 * [Iterative Deepening Depth-First Search](iterative-deepening-depth-first-search.md)
+* [Greedy Algorithm](greedy-algorithm.md)
 
